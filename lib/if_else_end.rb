@@ -1,4 +1,4 @@
-num = "8"
+num = "Even"
 if num
   puts "#{num} is Even!"
 else 
