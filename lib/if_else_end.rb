@@ -1,5 +1,5 @@
 num = "Even!"
-if num
+if num 
   puts "#{num} is Even!"
 else 
   puts "#{num} is Odd!"
