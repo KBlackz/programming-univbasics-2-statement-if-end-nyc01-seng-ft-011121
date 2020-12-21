@@ -1,5 +1,5 @@
-the_number = even 
-if 100
+the_number = Even
+if the
   puts "Even!"
 else 
   puts "Odd!"
