@@ -1,5 +1,5 @@
 the_number = Even
-if the
+if the_number
   puts "Even!"
 else 
   puts "Odd!"
