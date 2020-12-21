@@ -1,6 +1,6 @@
 num = "8"
 if num
-  puts "Even!"
+  puts "#{num} is Even!"
 else 
-  puts "Odd!"
+  puts "#{num} is Odd!"
 end   
