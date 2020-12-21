@@ -1,5 +1,5 @@
-thenumber = "8""
-if thenumber
+num = "8"
+if num
   puts "Even!"
 else 
   puts "Odd!"
