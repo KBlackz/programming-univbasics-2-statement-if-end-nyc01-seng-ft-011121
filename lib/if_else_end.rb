@@ -1,7 +1,6 @@
-my_favorite_color = "black"
-
-if my_favorite_color == "black"
-  puts....
+my_number_is= "black"
+if my_number_is == "black"
+  puts "Even"
   else
-  puts...
+  puts "Odd"
  end
