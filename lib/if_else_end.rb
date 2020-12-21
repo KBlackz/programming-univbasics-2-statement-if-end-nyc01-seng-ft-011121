@@ -1,5 +1,5 @@
-the_numbe 
-if run_code_inside
+the_number = even 
+if 100
   puts "Even!"
 else 
   puts "Odd!"
