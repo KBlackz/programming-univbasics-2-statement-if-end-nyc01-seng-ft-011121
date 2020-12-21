@@ -1,5 +1,5 @@
-8 + 2 = "Even" 
-if 8 + 2 == "Even" 
+8 + 2 = 10
+if results == 10
   puts "Even!"
 else 
   puts "Odd!"
