@@ -1,6 +1,6 @@
 this_number_is = "Even"
 if this_number_is == 8
-  puts "#{num} is Even!"
+  puts "#{number} is Even!"
   else 
-  puts "#{num} is Odd!"
+  puts "#{number} is Odd!"
 end   
