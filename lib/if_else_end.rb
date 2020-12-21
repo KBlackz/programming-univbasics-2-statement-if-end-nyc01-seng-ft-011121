@@ -1,4 +1,4 @@
-thenumber = 4>2
+thenumber = 4>3
 if thenumber 
   puts "Even!"
 else 
