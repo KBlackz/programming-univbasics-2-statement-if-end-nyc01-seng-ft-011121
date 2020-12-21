@@ -1,5 +1,5 @@
 thenumber = Even
-if thenumber
+if 5 > 2
   puts "Even!"
 else 
   puts "Odd!"
