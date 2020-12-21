@@ -1,6 +1,6 @@
 num_is = "Even!"
 if num_is 
   puts "#{num} is Even!"
-else 
+  else 
   puts "#{num} is Odd!"
 end   
