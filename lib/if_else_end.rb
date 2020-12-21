@@ -1,5 +1,5 @@
-run_code_inside = "Even" 
-if run_code_inside == "Even" 
+8+2 = "Even" 
+if 10 == "Even" 
   puts "Even!"
 else 
   puts "Odd!"
